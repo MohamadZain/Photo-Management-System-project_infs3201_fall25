@@ -1,4 +1,4 @@
-# Media Management System
+# Photo Management System
 
 Web-based photo management platform developed as a collaborative university project focused on media organization, user interaction, and layered application architecture.
 
@@ -39,9 +39,10 @@ The application follows a layered architecture structure to improve modularity, 
 * Old Facebook-inspired photo browsing experience
 
 ## Team Collaboration
-
-This project was developed collaboratively using GitHub with continuous commits, feature-based development, and shared repository management.
+Zain
+Umar
+Rizki
 
 ## Course Context
 
-Developed as part of the INFS3102 Media Management System project focused on full-stack web application development and software architecture principles.
+Developed as part of the INFS3102 Web Development 2 project focused on full-stack web application development.
